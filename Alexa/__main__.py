@@ -411,7 +411,7 @@ async def help_button(client, query):
 
 ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ.
 
-ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ  ʙᴏᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ @Mr_sukkun_bot: /
+ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ  ʙᴏᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ @Mr_Agora: /
  """
     if mod_match:
         module = mod_match.group(1)
